@@ -29,8 +29,7 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     [self setUpUI];
-    [self configurationDBR];
-   
+    [self configurationDBR];// configure DBR.
 }
 
 - (void)setUpUI
